@@ -33,8 +33,7 @@ Step 6. Once test code has been completed test the code by :
 a. Click on Run > Run as JUnit test.
 b. Verify the results on the left hand side of Eclipse.
 c. Verify the system logs reflect the correct results 
-"jumped" & 6.Explain how to run the automated tests for this system
-
+"jumped" and 6.
 
 
 
